@@ -1,9 +1,9 @@
-#_Web Dev Portfolio Page_
+# Web Dev Portfolio Page
 
-_ This Webpage is about a simple minimal-style Web Dev Landing page for <br/>
+_This Webpage is about a simple minimal-style Web Dev Landing page for <br/>
 Web developers._
 
-By_**Josh Hortt**_
+_By**Josh Hortt**_
 
 ## Description
 
@@ -25,7 +25,7 @@ _**Source**: github.com/Joshhortt/web-dev-portfolio-page_
 
 _My own Web Dev Portfolio Landing Page comes in 6 **color gradient themes**, <br/>
 which I like more then plain colors, because it gives this <br/>
-**Modern Industrial High-Tech**Look to it!_
+**Modern Industrial High-Tech** Look!_
 
 ![6 Modern Industrial Themes](https://imgbb.com/)
 
@@ -61,14 +61,14 @@ _**Colorzilla** - Color Editor_
 
 ## Social Media & Developer Training providers
 
-_**Behance** _ <br/>
+_**Behance**_ <br/>
 _**Codepen**_
 _**Freecodecamp**_ <br/>
 _**Twitter**_ <br/>
 _**Linkedin**_ <br/>
-_**Stackoverflow** - <br/>
+_**Stackoverflow**_ <br/>
 _**Medium**_ <br/>
-_**Epicodus** -
+_**Epicodus**_
 _**Flatiron School**_ <br/>
 _**Upskillcourses**_ <br/>
 _**Codeacademy**_ <br/>
